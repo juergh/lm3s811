@@ -1,3 +1,5 @@
+gcc-arm-none-eabi-*
+
 # Object files
 *.o
 *.ko
